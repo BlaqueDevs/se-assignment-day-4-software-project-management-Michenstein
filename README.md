@@ -18,6 +18,14 @@ Avoiding scope creep by managing change requests efficiently.
 Optimizing resource allocation to avoid waste.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Feature	              Agile	                             Waterfall
+Approach	            Iterative & flexible	             Sequential & structured
+Flexibility	          Highly adaptable to changes	       Rigid, difficult to modify
+Customer Involvement	Continuous feedback loop	         Less involvement after initial planning
+Delivery	            Frequent small releases	           One final release at the end
+Best for	            Dynamic, evolving projects	       Well-defined, stable projects
+Disadvantage	        Can be chaotic without structure	 Slow adaptation to changes
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
